@@ -8,10 +8,6 @@ class Person {
         return "prototype's result: " + (this.first + this.second);
     }
 }
-
-
-
-
 var kim = new Person('jinkyu', 10, 20);
 var park = new Person('juyoung',50,50)
 
